@@ -1,0 +1,16 @@
+{
+    "sqlconnector": {
+        "host": "localhost",
+        "port": 3306,
+        "database": "AgoAuth",
+        "user": "admin",
+        "password": "password"
+    },
+
+    "mailconnector": {
+        "host": "localhost",
+        "port": 587,
+        "user": "admin",
+        "pass": "password"
+    }
+}
